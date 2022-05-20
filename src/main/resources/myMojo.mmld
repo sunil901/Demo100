@@ -3,7 +3,7 @@
 <mojo xmlns="marmalade:mojo">
   <metadata>
     <goal>myMojo</goal>
-    <description>Output a file with specified contents to [outputDirectory]/touch.txt</description>
+    <description>Output a file with specified contents to ssss [outputDirectory]/touch.txt</description>
     <parameters>
       <parameter>
         <name>outputDirectory</name>
